@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Resume
-[Download Resume](https://github.com/ayushvaishnav26/ayushvaishnav26/blob/main/Ayush_Kumar_Resume.pdf)
+[View Resume](./Ayush_Kumar_Resume.pdf)
 
 ---
 
