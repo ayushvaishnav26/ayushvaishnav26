@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Kumar
 
-<!--
-**ayushvaishnav26/ayushvaishnav26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity Student  
+🔐 Interested in SOC, Threat Detection & SIEM  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Resume
+[Download Resume](https://github.com/ayushvaishnav26/ayushvaishnav26/blob/main/Ayush_Kumar_Resume.pdf)
+
+---
+
+## 🚀 Projects
+- 🔍 SOC SIEM Lab using Wazuh  
+- 🛡️ Web Application Security Testing  
+- ⚡ IDS Analysis using Python  
+
+---
+
+## 🛠️ Skills
+- Linux | Networking | SIEM | Wireshark | Nmap  
+- Python | C++
+- AWS IAM (Basics) | SQL
