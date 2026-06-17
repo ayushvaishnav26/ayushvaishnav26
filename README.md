@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Resume
-[View Resume](./Ayush_Kumar_Resume.pdf)
+[View Resume](./Ayush_Kumar_Resume2026.pdf)
 
 ---
 
